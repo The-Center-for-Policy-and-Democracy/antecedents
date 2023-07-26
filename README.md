@@ -21,6 +21,6 @@ Round 3. We categorized the coded antecedents into two broad categories (either 
 
 As we coded, we paid particular attention to the context for this particular subsystem. For instance, Governor Hickenlooper, who was in office between 2011-2019, crafted several executive orders and spearheaded many policy changes, often interacting as a policy broker with advocacy groups on various sides of the issue and with regulatory agencies (Heikkila et al., 2014). Due to his close relationship with the oil and gas subsystem, we coded his involvement as internal.
 
-Codebook available: https://github.com/The-Center-for-Policy-and-Democracy/antecedents/blob/main/2022_12_22-antecedents-codebook.pdf
-
 In coding the antecedents, our inductive approach minded the broad arguments of policy change found across the literature. This includes, for example, path dependency, policy feedback, policy diffusion, conflict, policy entrepreneurs, and more. Throughout our rounds of coding, we were guided by the antecedents identified by our actors and our goal was to ensure a complete collection of antecedents as possible and not exclude something just because the ACF said it was not important.  
+
+Codebook available: https://github.com/The-Center-for-Policy-and-Democracy/antecedents/blob/main/2022_12_22-antecedents-codebook.pdf
